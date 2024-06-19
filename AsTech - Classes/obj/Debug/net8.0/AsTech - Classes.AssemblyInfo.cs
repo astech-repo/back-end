@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsTech - Classes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b67cf4fae1a338a5e3760472313a2e5f6820bc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28d67edd26021ddd5fc59a053ec6432d0ddc0d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsTech - Classes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsTech - Classes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
