@@ -8,12 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MySql.Data" Version="8.4.0" />
+    <Compile Remove="DAO\**" />
+    <Compile Remove="DTO\**" />
+    <EmbeddedResource Remove="DAO\**" />
+    <EmbeddedResource Remove="DTO\**" />
+    <None Remove="DAO\**" />
+    <None Remove="DTO\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DAO\" />
-    <Folder Include="DTO\" />
+    <PackageReference Include="MySql.Data" Version="8.4.0" />
   </ItemGroup>
 
 </Project>
