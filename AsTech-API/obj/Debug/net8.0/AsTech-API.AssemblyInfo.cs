@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsTech-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c25855a75657e55c30932b73a7154a8153ee654")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fcf13219aa9280428d552555b5eca3c8363b66e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsTech-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsTech-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
