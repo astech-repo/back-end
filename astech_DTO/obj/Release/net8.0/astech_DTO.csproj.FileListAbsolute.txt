@@ -1,0 +1,12 @@
+C:\AsTech_API\astech_DTO\bin\Release\net8.0\astech_DTO.deps.json
+C:\AsTech_API\astech_DTO\bin\Release\net8.0\astech_DTO.dll
+C:\AsTech_API\astech_DTO\bin\Release\net8.0\astech_DTO.pdb
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.csproj.AssemblyReference.cache
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.AssemblyInfoInputs.cache
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.AssemblyInfo.cs
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.csproj.CoreCompileInputs.cache
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.dll
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\refint\astech_DTO.dll
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\astech_DTO.pdb
+C:\AsTech_API\astech_DTO\obj\Release\net8.0\ref\astech_DTO.dll

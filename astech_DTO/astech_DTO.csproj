@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.4.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Twilio" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="astech_DAO">
+      <HintPath>..\astech_DAO\bin\Debug\net8.0\astech_DAO.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
